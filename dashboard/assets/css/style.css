@@ -1,0 +1,34 @@
+html, body {
+    overflow-y: hidden;
+}
+.card {
+    height: 150px;
+}
+.card-grafik {
+    height: 500px;
+}
+
+.material-icons {
+    color: #ec008c;
+}
+
+
+.material-symbols-outlined {
+    color: #ec008c;
+}
+
+.fas {
+    color: #ec008c;
+}
+
+.fas fa-home {
+    color: #ec008c;
+}
+
+.fas fa-pen-square {
+    color: #ec008c;
+}
+
+.fa fa-map-pin {
+    color: #ec008c;
+}
